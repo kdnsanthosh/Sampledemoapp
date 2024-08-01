@@ -27,7 +27,7 @@ spec:
     spec:
       containers:
         - name: hello
-          image: iammithran/weekendimage:latest
+          image: jjilla5858/sampleappimage:latest
           imagePullPolicy: Always
 
 
